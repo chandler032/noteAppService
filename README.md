@@ -8,8 +8,6 @@ I'm currently building the back-end which is a Spring Boot application, that use
 
 When I reach the relevant step in the challege, the client side will be set up as a React and TypeScript project which has been generated using Vite.js. The intention is to use Tailwind.css for styling. 
 
-I am planning to push regular updates, so feel free to follow me on here, on alternatively on LinkedIn: https://www.linkedin.com/in/vinaygajjar/.
-
 # MySQL Tables
 There is currently just one MySQL table, for persisting a Note entity:
 
