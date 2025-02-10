@@ -35,7 +35,7 @@ CREATE TABLE `note` (
 
 Cloning the repository: 
 ```
-git clone https://github.com/v-gajjar/NotesApp.git
+git clone https://github.com/chandler032/noteAppService.git
 ```
 
 # Using an IDE
